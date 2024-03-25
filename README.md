@@ -51,7 +51,7 @@
 
 
 
-<div>
+
  <p>
    <a href="https://github.com/juh-ng">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juh-ng&show_icons=false&theme=dracula&include_all_commits=true&count_private=true">
@@ -59,7 +59,7 @@
   </a>
  </p>
  
-</div>
+
 
 
 
