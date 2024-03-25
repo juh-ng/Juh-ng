@@ -52,15 +52,16 @@
 
 
 <div>
-  <a href="https://github.com/juh-ng">
+ <p>
+   <a href="https://github.com/juh-ng">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juh-ng&show_icons=false&theme=dracula&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juh-ng&layout=compact&langs_count=16&theme=dracula"/>
   </a>
+ </p>
+ 
 </div>
 
 
-
- ##
 
  <div>
     <a href="https://www.linkedin.com/in/julia-nogueiraan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
