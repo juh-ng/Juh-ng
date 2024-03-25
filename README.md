@@ -33,9 +33,9 @@
 
 | Courses | Certificates | 
 |---------|--------------|
-| HTML and CSS: development environments, file structure and tags | [Certificate](https://cursos.alura.com.br/certificate/6213757e-10b7-4ac5-acb5-3ce3b2b03ddd?lang=en) |
-| HTML and CSS: header, footer and CSS variables | [Certificate](https://cursos.alura.com.br/certificate/8b05e40f-3c98-438d-9852-eacd716e2664?lang=en) |
-| HTML and CSS: Classes, positioning and Flexbox | [Certificate](https://cursos.alura.com.br/certificate/eb1bd3e9-1f10-4b81-8dc5-6f057d600112?lang=en) |
+| HTML and CSS: development environments, file structure, and tags | [Certificate](https://cursos.alura.com.br/certificate/6213757e-10b7-4ac5-acb5-3ce3b2b03ddd?lang=en) |
+| HTML and CSS: header, footer, and CSS variables | [Certificate](https://cursos.alura.com.br/certificate/8b05e40f-3c98-438d-9852-eacd716e2664?lang=en) |
+| HTML and CSS: Classes, positioning, and Flexbox | [Certificate](https://cursos.alura.com.br/certificate/eb1bd3e9-1f10-4b81-8dc5-6f057d600112?lang=en) |
 | Microservices in practice: understanding decision making | [Certificate](https://cursos.alura.com.br/certificate/40efc0a8-6244-42b7-b51f-ade5f82f1adc?lang=en) |
 | Microservices in Practice: Implementing with Java and Spring | [Certificate](https://cursos.alura.com.br/certificate/7dd5d7b2-945f-4968-8595-4315bba66810?lang=en) |
 | Microservices: Design Patterns | [Certificate](https://cursos.alura.com.br/certificate/48daf04e-264e-4dd1-ba0c-87a1c1ac88e1?lang=en) |
